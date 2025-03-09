@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Excuse Generator 🎭
 
-## Getting Started
+Un générateur d'excuses amusant et pratique pour toutes les situations.
 
-First, run the development server:
+## 🌟 Fonctionnalités
+
+- Génération d'excuses aléatoires
+- Catégorisation des excuses (travail, école, social, etc.)
+- Interface utilisateur moderne et responsive
+
+## 🚀 Installation
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Cloner le projet
+git clone https://github.com/thomaslekieffre/Excuse-master.git
+
+# Accéder au répertoire
+cd excuse-generator
+
+# Installer les dépendances
+npm install
+
+# Lancer l'application
+npm start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Technologies Utilisées
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- React.js - Framework Frontend
+- Tailwind CSS - Styling
+- Shadcn UI - Interface
+- LocalStorage - Stockage local des données
+- GeminiAI - Pour la génération d'excuses
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📱 Utilisation
 
-## Learn More
+1. Ouvrez l'application dans votre navigateur
+2. Sélectionnez une catégorie d'excuse
+3. Cliquez sur "Générer" pour obtenir une nouvelle excuse
+4. Sauvegardez vos excuses préférées en cliquant sur l'étoile
 
-To learn more about Next.js, take a look at the following resources:
+## 🤝 Contribution
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Les contributions sont les bienvenues ! N'hésitez pas à :
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Fork le projet
+2. Créer une branche (`git checkout -b feature/AmazingFeature`)
+3. Commit vos changements (`git commit -m 'Add some AmazingFeature'`)
+4. Push sur la branche (`git push origin feature/AmazingFeature`)
+5. Ouvrir une Pull Request
 
-## Deploy on Vercel
+## 🙏 Remerciements
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- Inspiré par les moments où nous avons tous eu besoin d'une excuse créative
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 📞 Contact
+
+Pour toute question ou suggestion, n'hésitez pas à ouvrir une issue ou à me contacter directement.
+
+---
+
+Fait avec ❤️ par Thomas Lekieffre
